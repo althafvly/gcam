@@ -1,0 +1,42 @@
+.class final Lmtm;
+.super Ljava/lang/Object;
+.source "PG"
+
+# interfaces
+.implements Lqht;
+
+
+# instance fields
+.field private final synthetic a:Lmsl;
+
+
+# direct methods
+.method constructor <init>(Lmsl;)V
+    .locals 0
+
+    iput-object p1, p0, Lmtm;->a:Lmsl;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final bridge synthetic a(Ljava/lang/Object;)V
+    .locals 1
+
+    check-cast p1, Lmsz;
+
+    iget-object v0, p0, Lmtm;->a:Lmsl;
+
+    invoke-virtual {v0, p1}, Lmsl;->a(Ljava/lang/Object;)V
+
+    return-void
+.end method
+
+.method public final a(Ljava/lang/Throwable;)V
+    .locals 0
+
+    return-void
+.end method

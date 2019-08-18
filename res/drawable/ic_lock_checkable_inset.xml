@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:drawable="@drawable/ic_lock_checkable" android:insetLeft="@dimen/evCompLockIconPadding" android:insetRight="@dimen/evCompLockIconPadding" android:insetTop="@dimen/evCompLockIconPadding" android:insetBottom="@dimen/evCompLockIconPadding"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

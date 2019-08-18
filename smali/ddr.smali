@@ -1,0 +1,31 @@
+.class public abstract Lddr;
+.super Ljava/lang/Object;
+.source "PG"
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+.method public static a(Lofu;Lolj;)Lddr;
+    .locals 1
+
+    new-instance v0, Lddm;
+
+    invoke-direct {v0, p0, p1}, Lddm;-><init>(Lofu;Lolj;)V
+
+    return-object v0
+.end method
+
+
+# virtual methods
+.method public abstract a()Lofu;
+.end method
+
+.method public abstract b()Lolj;
+.end method

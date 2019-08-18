@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="48.0dip" android:width="48.0dip" android:viewportWidth="48.0" android:viewportHeight="48.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffffffff" android:pathData="M46 24A22 22 0 0 1 24 46 22 22 0 0 1 2 24 22 22 0 0 1 24 2 22 22 0 0 1 46 24Z" />
+    <path android:pathData="M45.75 24A21.75 21.75 0 0 1 24 45.75 21.75 21.75 0 0 1 2.25 24 21.75 21.75 0 0 1 24 2.25 21.75 21.75 0 0 1 45.75 24Z" android:strokeColor="#ffbdbdbd" android:strokeWidth="0.5" />
+    <group android:translateX="14.0" android:translateY="12.0">
+        <path android:fillColor="#ffe1e1e1" android:pathData="M15 10.13l-15 0 0 12.36c0 0.82 0.68 1.5 1.5 1.5l12 0c0.82 0 1.5 -0.68 1.5 -1.5l0 -12.36z" />
+        <path android:fillColor="#ff262626" android:pathData="M13.5 23.87l-12 0C0.68 23.87 0 23.19 0 22.37l0 0.12c0 0.82 0.68 1.5 1.5 1.5l12 0c0.82 0 1.5 -0.68 1.5 -1.5l0 -0.12c0 0.82 -0.68 1.5 -1.5 1.5z" android:fillAlpha="0.15" />
+        <path android:fillColor="#ff4285f4" android:pathData="M23.57 13.31L10.69 0.44C10.4 0.15 10.02 0 9.63 0L1.5 0C0.67 0 0 0.67 0 1.5l0 8.63c0 0.39 0.15 0.77 0.44 1.06l8.31 8.3 10.75 0 4.07 -4.06C23.86 15.14 24 14.75 24 14.36 24 13.98 23.86 13.6 23.57 13.31ZM4.5 5.99C3.67 5.99 3 5.32 3 4.49 3 3.66 3.67 2.99 4.5 2.99 5.33 2.99 6 3.66 6 4.49 6 5.32 5.33 5.99 4.5 5.99Z" />
+        <path android:fillColor="#ffa1c2fa" android:pathData="M8.75 19.49l4.31 -4.31c0.58 -0.58 1.54 -0.58 2.12 0l4.32 4.31 -10.75 0z" />
+        <path android:fillColor="#ffffffff" android:pathData="M15.18 15.31l4.19 4.19 0.12 0 -4.31 -4.32c-0.58 -0.58 -1.54 -0.58 -2.12 0l-4.31 4.31 0.12 0 4.19 -4.19c0.58 -0.58 1.54 -0.58 2.12 0.01z" android:fillAlpha="0.2" />
+        <path android:fillColor="#ff263238" android:pathData="M24 14.3c-0.02 0.36 -0.16 0.73 -0.43 1.01l-4.07 4.06 -10.75 0 -8.31 -8.3C0.15 10.77 0 10.39 0 10.01L0 1.5 0 10.13c0 0.39 0.15 0.77 0.44 1.06l8.31 8.3 10.75 0 4.07 -4.06C23.86 15.14 24 14.75 24 14.37 24 14.35 24 14.32 24 14.3ZM4.5 2.99C5.31 2.99 5.97 3.63 6 4.43 6 4.41 6 4.39 6 4.37 6 3.54 5.33 2.87 4.5 2.87 3.67 2.87 3 3.54 3 4.37 3 4.39 3 4.41 3 4.43 3.04 3.63 3.69 2.99 4.5 2.99Z" android:fillAlpha="0.2" />
+    </group>
+</vector>
